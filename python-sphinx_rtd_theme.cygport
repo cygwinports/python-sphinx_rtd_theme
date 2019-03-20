@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-sphinx_rtd_theme"
-VERSION=0.2.4
+VERSION=0.4.3
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Read the Docs theme for Sphinx"
